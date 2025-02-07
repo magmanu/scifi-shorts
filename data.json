@@ -8,11 +8,12 @@
       "spoiler": false,
       "liked": [
         "Ninety-six billion inhabited and interconnected planets",
-        "It's moralistic enough that we can use the name \"Dwar Ev\" for pretentious tech bros, but nobody will catch the reference"
+        "It's moralistic enough that we can use the name 'Dwar Ev' for pretentious tech bros, but nobody will catch the reference"
       ],
       "disliked": [
         "Feels more like an amateur tale than a proper short story",
-        "Not that creative"]
+        "Not that creative"
+      ]
     },
     {
       "title": "The Nine Billion Names of God",
@@ -20,7 +21,12 @@
       "rating": 3,
       "summary": "A group of Tibetan monks who use a computer to list all the possible names of God, and speed up a process they've been doing for millenia. Two engineers overseeing the project initially think it’s absurd. Will something happen when the list is completed?",
       "spoiler": true,
-      "liked": ["- The idea of the 9 billion names of God (I was expecting it to be the name of humans walking on earth)\n- The fact that monks were requesting a computer to speed up their work\n- That the engineers supporting them became afraid"],
+      "liked": [
+        "The idea of 9 billion names for God (I was expecting it to be the name of humans walking on earth)",
+        "The fact that monks were requesting a computer to speed up their work",
+        "The engineers supporting them becoming afraid",
+        "Wikipedia linked 'Brute force attack' to this short story entry"
+      ],
       "disliked": [
         "I got anxious to see the story develop and the initial 'technical' discussion bored me",
         "The way English literature marks dialogues is confusing"
@@ -75,6 +81,20 @@
         "It's beautiful HOW MUCH LOVE there is in this episode."
       ],
       "disliked": ["Absolutely nothing. This is beautiful writing."]
+    },
+    {
+      "title": "Computers Don't Argue",
+      "author": "Gordon R. Dickson",
+      "rating": 4,
+      "summary": "A man gets caught in a bureaucratic nightmare after receiving the wrong book from a book club and trying to resolve the issue, only to be increasingly harassed by automated systems that escalate the situation more and more",
+      "spoiler": false,
+      "liked": [
+        "Enjoyable tragicomedy, in the form of exchanged letters",
+        "Really liked the absurdity of the situation, and the escalation from one type of infraction to another is funny",
+        "Wikipedia linked 'computer says no' and 'garbage in, garbage out'. I wish there was a shorthand for QA issues too :P",
+        "It was interesting that the author could imagine a context where computers would take all the decisions, but people would still write letters"
+      ],
+      "disliked": ["Exchanged letters format is fine, but the headers were breaking the flow too much"]
     }
   ]
 }
