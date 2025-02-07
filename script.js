@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const filterAuthor = document.getElementById('filter-author');
   const filterRating = document.getElementById('filter-rating');
 
-  
   fetch('./data.json')
     .then(response => {
       if (!response.ok) {
@@ -13,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
     })
     .then(data => {
       let stories = data.stories || [];
-      // stories.reverse();
+      stories.reverse();
       stories.forEach(story => addStoryToDOM(story));
     })
     .catch(error => console.error('Error loading stories:', error));
@@ -33,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <button class="toggle-disliked">Downs</button>
     <div class="content-box"></div>
   `;
-    storyList.prepend(storyDiv);
+    storyList.appendChild(storyDiv);
 
     const contentBox = storyDiv.querySelector('.content-box');
 
