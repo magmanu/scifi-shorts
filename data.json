@@ -1,0 +1,80 @@
+{
+  "stories": [
+    {
+      "title": "The Answer",
+      "author": "Frederic Brown",
+      "rating": 1,
+      "summary": "All AI of billions of planets in the universe is finally connected. The engineer asks if God exists. The answer comes.",
+      "spoiler": false,
+      "liked": [
+        "Ninety-six billion inhabited and interconnected planets",
+        "It's moralistic enough that we can use the name \"Dwar Ev\" for pretentious tech bros, but nobody will catch the reference"
+      ],
+      "disliked": [
+        "Feels more like an amateur tale than a proper short story",
+        "Not that creative"]
+    },
+    {
+      "title": "The Nine Billion Names of God",
+      "author": "Arthur C. Clarke",
+      "rating": 3,
+      "summary": "A group of Tibetan monks who use a computer to list all the possible names of God, and speed up a process they've been doing for millenia. Two engineers overseeing the project initially think it’s absurd. Will something happen when the list is completed?",
+      "spoiler": true,
+      "liked": ["- The idea of the 9 billion names of God (I was expecting it to be the name of humans walking on earth)\n- The fact that monks were requesting a computer to speed up their work\n- That the engineers supporting them became afraid"],
+      "disliked": [
+        "I got anxious to see the story develop and the initial 'technical' discussion bored me",
+        "The way English literature marks dialogues is confusing"
+      ]
+    },
+    {
+      "title": "The Last Question",
+      "author": "Isaac Asimov",
+      "rating": 5,
+      "summary": "The Last Question follows multiple generations as humanity continually asks the supercomputer Multivac how to reverse the entropy of the universe and prevent its eventual heat death. Over the course of millions of years, humans and Multivac evolve, and the question is asked one last time..",
+      "spoiler": false,
+      "liked": [
+        "Progressive Recursion",
+        "Humans evolve but the essential question is still the same",
+        "Happy-ish dystopia",
+        "The answer",
+        "Circular ending",
+        "I liked (but also disliked) how people and technology become so integrated to the point it gets.",
+        "Questions:\nWhat are we willing to give to delay the inevitable?",
+        "Is the pursuit of ultimate knowledge an end in itself?"
+      ],
+      "disliked": ["N/A"]
+    },
+    {
+      "title": "[S04E01] The Way of the Warrior-Part I",
+      "author": "Deep Space 9",
+      "rating": 4,
+      "summary": "Sisko becomes uncomfortable when the Klingons station a task force to help defend against the Dominion. Worf is summoned to find out their true intentions.",
+      "spoiler": false,
+      "liked": [
+        "Finally some action",
+        "Worf gets conflicted, and decides to keep his honour when that's not valued by the Federation",
+        "Garak saving his own skin in an honourable way",
+        "Odo talking to Bashir, and I realized he's the one at most danger and my heart broke for him"
+      ],
+      "disliked": ["N/A"]
+    },
+    {
+      "title": "[S04E02] The Visitor",
+      "author": "Deep Space 9",
+      "rating": 5,
+      "summary": "Melanie, an aspiring writer, wants to know why Jake Sisko stopped writing at 40. Jake tells how his father died in an accident and then suddenly reappeared.",
+      "spoiler": true,
+      "liked": [
+        "Starts with an old Jake, in deep emotional pain. Up to now Jake was still a child and has started to show some personality, and it's quite a jump to see him as old man. This jump was emotional per se",
+        "Sisko 'dies' many times for Jake",
+        "At some point, Jake is older than his dad",
+        "Sisko is extremely loving at every appearance",
+        "Jake returns to writing out of love for his father, knowing he'll see him one last time. He wants his dad to be proud of him when they depart",
+        "When Jake and Sisko are separated, Jake painfully changes the whole course of his life to save his dad at the cost of himself; Sisko is heartbroken and selflessly insists with Jake to get back to writing, and go on with his life.",
+        "Jake is not selfless, he's sacrificial. He was the one in a position to sacrifice and he did, despite of his father's protests. The fact that he had stories to show to his father before the final sacrificing was like 'I did what you asked of me, but I still have this one more thing to do'",
+        "It's beautiful HOW MUCH LOVE there is in this episode."
+      ],
+      "disliked": ["Absolutely nothing. This is beautiful writing."]
+    }
+  ]
+}
