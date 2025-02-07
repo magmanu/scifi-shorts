@@ -3,8 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const filterAuthor = document.getElementById('filter-author');
   const filterRating = document.getElementById('filter-rating');
 
-
-  // fetch('./data.json')
+  
   fetch('./data.json')
     .then(response => {
       if (!response.ok) {
@@ -14,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     })
     .then(data => {
       let stories = data.stories || [];
-      stories.reverse();
+      // stories.reverse();
       stories.forEach(story => addStoryToDOM(story));
     })
     .catch(error => console.error('Error loading stories:', error));
@@ -87,15 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Add event listeners for filter inputs
   filterAuthor.addEventListener('input', filterStories);
   filterRating.addEventListener('input', filterStories);
 });
 
-
-
-// `<div class="content-box">
-//     <ul>
-//       ${story[type].map(item => `<li>• ${item}</li>`).join('')}
-//     </ul>
-//   </div>`
