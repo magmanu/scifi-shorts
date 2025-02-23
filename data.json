@@ -138,6 +138,22 @@
         "Little trivia: this sotory and Lord of the Flies were released in the same year."
       ],
       "disliked": ["The story loses a lot of its punch if someone has given you spoilers (which was my case)."]
+    },
+    {
+      "title": "The Cure for Everything",
+      "author": "Severna Parks",
+      "rating": 2,
+      "summary": "Maria, a linguist working at a government institution to integrate refugee indigenous peoples into the larger society, learns about a tribe with a genetic mutation that could potentially cure any disease, including her own condition",
+      "spoiler": false,
+      "liked": [
+        "The story makes you intrigued about the protagonist's looks, and that it's indeed relevant to the story.",
+        "It's cool that the protagonist is mistaken by a powerful spirit - it's a shame that doesn't bring any consequence to the story."  
+      ],
+      "disliked": [
+        "The plot ideas are strong, but are underdeveloped. I particularly disliked that the indigenous people have no depth.",
+        "The protagonist is portrayed in a very matter-of-fact way, which weakens the perception of her supposedly strong values.", 
+        "The protagonist's frustrated wish for having kids seems to come out of the blue, and is not developed enough to support her moral dilemma, so it and doesn't justify how the story ends. The story ending even felt gross because of that."
+      ]
     }
   ]
 }
